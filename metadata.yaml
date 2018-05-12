@@ -1,0 +1,27 @@
+_repo: The-Copeland-Method--13-A-Complete-Manual-for-Cleaning-Repairing-Altering-and-Pressing-All-Ki__34186
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34186-h/images/icover2.jpg
+creator:
+  author:
+    agent_name: Copeland, Vanness
+    gutenberg_agent_id: '36866'
+    url: http://www.gutenberg.org/2009/agents/36866
+description: ''
+gutenberg_issued: '2010-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34186'
+  lccn: 08020353
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Tailoring'
+- !lcsh 'Cleaning'
+title: "The Copeland Method\r\nA Complete Manual for Cleaning, Repairing, Altering\
+  \ and Pressing All Kinds of Garments for Men and Women, at Home or for Business"
+url: http://www.gutenberg.org/ebooks/34186
