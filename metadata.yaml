@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36866'
     url: http://www.gutenberg.org/2009/agents/36866
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34186#The-Copeland-Method--13-A-Complete-Manual-for-Cleaning-Repairing-Altering-and-Pressing-All-Ki_
 gutenberg_issued: '2010-11-03'
 gutenberg_type: Text
 identifiers:
